@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SecondKotlinApp</string>
+    <!--My Text Strings-->
+    <string name="mainPage_heading">The only study app you\'ll ever need</string>
+    <string name="mainPage_subHeading">Upload class study materials, create electronic flashcards to study.</string>
+    <string name="login_heading">Login</string>
+    <string name="signup_heading">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="user_name">Haider Mukhtar</string>
+    <string name="user_grade">6th Grade</string>
+    <string name="next_class">Next Class</string>
+    <string name="see_all">See All</string>
+    <string name="basic_math">Basic Mathematics</string>
+    <string name="math_time">Today at 10:00 AM</string>
+    <string name="teacher">Teacher</string>
+    <string name="home_work">Home Work</string>
+    <string name="events">Events</string>
+    <string name="comedy_show">Comedy Show</string>
+    <string name="coding_event">Coding Event</string>
+    <string name="music_event">Music Event</string>
+    <string name="car_show">Car Show</string>
+    <string name="event_timing">26 Apr, 06:00pm</string>
+    <!--My Button Strings-->
+    <string name="mainPage_letsStart_button">Let\'s Start</string>
+    <string name="login_button">Login</string>
+    <string name="signup_button">Sign Up</string>
+</resources>
